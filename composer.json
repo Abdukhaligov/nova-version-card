@@ -1,5 +1,5 @@
 {
-    "name": "kussie/nova-version-card",
+    "name": "abdukhaligov/nova-version-card",
     "description": "A Laravel Nova card to show some system versions.",
     "keywords": [
         "laravel",
